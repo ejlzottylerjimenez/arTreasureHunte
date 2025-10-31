@@ -1,4 +1,4 @@
-```markdown
+
 # arTreasureHuntFHE: An Augmented Reality Treasure Hunting Experience
 
 Transform the world around you into an exhilarating augmented reality (AR) treasure hunt powered by **Zama's Fully Homomorphic Encryption technology**. This innovative platform allows creators to design immersive AR games where clues and treasure locations are securely encrypted, ensuring players unlock them only when they reach designated spots through decentralized physical infrastructure networks (DePIN). 
